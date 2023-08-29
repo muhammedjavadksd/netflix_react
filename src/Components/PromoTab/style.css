@@ -1,0 +1,15 @@
+.promoContent>h2 {
+    font-size: 51px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.promoBanner {
+    flex: 1;
+}
+
+.promoContent {
+    color: white;
+    line-height: 2;
+    flex: 1;
+}

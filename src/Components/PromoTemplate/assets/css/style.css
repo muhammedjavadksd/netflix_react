@@ -1,0 +1,14 @@
+.promoFlex {
+    display: flex;
+    align-items: center;
+}
+
+.promoContent {
+    color: white;
+    line-height: 2;
+}
+
+.promoItem {
+    border-top: 2px solid rgb(35 35 35);
+    border-bottom: 2px solid rgb(35 35 35);
+}

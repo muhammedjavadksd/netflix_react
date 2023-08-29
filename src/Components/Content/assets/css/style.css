@@ -1,0 +1,11 @@
+#blockContent {
+    padding-bottom: 30px;
+}
+
+.loader{
+    width: 100%;
+    min-width: 300px;
+    min-height: 100px;
+    height: 100%;
+    background-color: red;
+}
